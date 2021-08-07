@@ -1,0 +1,7 @@
+Start/
+
+coffee_machine/venv/
+coffee_machine/__pycache__/
+coffee_machine/.idea/
+coffee_machine/.DS_Store
+
